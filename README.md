@@ -4,7 +4,7 @@ We presents a parallel dataset of Arabic text that contains around 59,647 ungram
 
 Based on the originality of errors, the dataset was divided into two CSV files with synthetic and natural errors. The 56,236 sentences that have synthetic errors can be found in the Synthetic.csv file, while the 3411 sentences which have natural errors can be found in Original.csv. We have also provided an Qawaid_Dataset.csv file which contains the full corpus of 59,647 pairs of sentences.  
 
-File content:
-Original.csv
-Synthetic.csv
+File content: /n
+Original.csv /n
+Synthetic.csv /n
 Qawaid_Dataset.csv
